@@ -1,4 +1,4 @@
-"# balaji-jewellers-final" 
+"# Sri Balaji-jewellers-final" 
 
 This is a template based website 
 <!-- copyright issues are applicable -->
